@@ -1,0 +1,19 @@
+Your identification has been saved in c: cportfolio.
+Your public key has been saved in c: cportfolio.pub.
+The key fingerprint is:
+SHA256:RCYlHeDwFauIbtQ8OuNIwbJFRo6v1L6ciYHyF9begCw email@example.com
+The key's randomart image is:
++--[ED25519 256]--+
+|  . . ++Bo       |
+| +   + *..       |
+|. +   o o        |
+|.+.+ . o         |
+|.+=o=o. S        |
+|+*E.=.o          |
+|=o*+ o o         |
+|o=+o= . .        |
+|..o*             |
++----[SHA256]-----+
+MacBook-Air:~ ujordanaquadro$ 
+
+p/w is 1nonly25
